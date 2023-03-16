@@ -1,19 +1,10 @@
-sword and spear
+
 wall pf shields
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ksjdhfsdjhfsdf
 sdfjnsdjkfsdjkfh
 jsdfkjsdhfjksdhf
 dfgdfg
 dfgdfgdf
-_______
-=======
-jfioerjferjfer
-ljkdfngjkdfngjkdfng
-sdfsdfsd
-hhudhfufh
-udhfudhfuidfh
-uhdufhdfuhf
-
->>>>>>> parent of c9cca2e (hi)
